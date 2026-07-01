@@ -4,7 +4,7 @@ This is a minimal implementation of the RAG model
 
 ## Requirements
 
-- Python 3.8 or later
+- Python 3.10 or later
 
 ### Install Python using Miniconda
 
