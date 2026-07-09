@@ -24,7 +24,7 @@ $conda activate mini-rag-app
 ## Installation
 
 ```bash
-$ pip install -r requirements.text
+$ pip install -r requirements.txt
 ```
 
 ### Setup the enviornment variables
